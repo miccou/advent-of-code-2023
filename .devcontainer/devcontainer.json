@@ -1,0 +1,7 @@
+{
+	"image": "mcr.microsoft.com/vscode/devcontainers/typescript-node:20",
+	"features": {
+		"ghcr.io/devcontainers-community/npm-features/prettier:1": {},
+		"ghcr.io/devcontainers-community/npm-features/typescript:1": {}
+	}
+}

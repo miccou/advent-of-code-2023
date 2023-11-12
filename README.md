@@ -1,6 +1,14 @@
 # advent-of-code-2023
 _this year, it's all speed, and probably all javascript_
 
+## How to run a solution
+From repo root, run `npx tsx ./day-proto/solution.ts`.
+
+## Context? 
+Reading files should be done from the context of the repository root.
+
+## Progress
+
 | Day | Puzzle one | Puzzle two |
 |-----|------------|------------|
 | 1   |            |            |
