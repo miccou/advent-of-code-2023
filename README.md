@@ -11,7 +11,7 @@ Reading files should be done from the context of the repository root.
 
 | Day | Puzzle one | Puzzle two |
 |-----|------------|------------|
-| 1   |            |            |
+| 1   |  ⭐        |            |
 | 2   |            |            |
 | 3   |            |            |
 | 4   |            |            |
