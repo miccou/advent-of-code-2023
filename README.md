@@ -17,7 +17,7 @@ Reading files should be done from the context of the repository root.
 | 1   | ⭐         | ⭐         |
 | 2   | ⭐         | ⭐         |
 | 3   |            |            |
-| 4   |            |            |
+| 4   | ⭐         |            |
 | 5   |            |            |
 | 6   |            |            |
 | 7   |            |            |
